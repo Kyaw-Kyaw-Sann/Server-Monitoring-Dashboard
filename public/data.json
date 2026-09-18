@@ -1,0 +1,144 @@
+{
+  "data": [
+    {
+      "timestamp": "2025-09-05 11:54:40",
+      "cpu_usage": "62.9",
+      "memory": { "used": "1100", "total": "1837", "percent": "60" },
+      "disk_usage": "52%",
+      "services": {
+        "sshd": "running",
+        "httpd": "close",
+        "mariadb": "running",
+        "postfix": "close"
+      },
+      "location": { "lat": "16.8350", "lon": "96.1850" },
+      "network_connections": "15"
+    },
+    {
+      "timestamp": "2025-09-05 11:24:10",
+      "cpu_usage": "0.00",
+      "memory": { "used": "478", "total": "1837", "percent": "26" },
+      "disk_usage": "33%",
+      "services": {
+        "sshd": "running",
+        "httpd": "running",
+        "mariadb": "running",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8053", "lon": "96.1561" },
+      "network_connections": "0"
+    },
+    {
+      "timestamp": "2025-09-05 12:04:50",
+      "cpu_usage": "81.7",
+      "memory": { "used": "1390", "total": "1837", "percent": "75" },
+      "disk_usage": "63%",
+      "services": {
+        "sshd": "running",
+        "httpd": "close",
+        "mariadb": "close",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8450", "lon": "96.1950" },
+      "network_connections": "21"
+    },
+    {
+      "timestamp": "2025-09-05 11:34:20",
+      "cpu_usage": "25.8",
+      "memory": { "used": "650", "total": "1837", "percent": "35" },
+      "disk_usage": "38%",
+      "services": {
+        "sshd": "close",
+        "httpd": "running",
+        "mariadb": "running",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8150", "lon": "96.1650" },
+      "network_connections": "7"
+    },
+    {
+      "timestamp": "2025-09-05 11:44:30",
+      "cpu_usage": "41.6",
+      "memory": { "used": "850", "total": "1837", "percent": "46" },
+      "disk_usage": "44%",
+      "services": {
+        "sshd": "running",
+        "httpd": "running",
+        "mariadb": "running",
+        "postfix": "close"
+      },
+      "location": { "lat": "16.8250", "lon": "96.1750" },
+      "network_connections": "9"
+    },
+    {
+      "timestamp": "2025-09-05 11:49:35",
+      "cpu_usage": "50.3",
+      "memory": { "used": "970", "total": "1837", "percent": "53" },
+      "disk_usage": "48%",
+      "services": {
+        "sshd": "close",
+        "httpd": "running",
+        "mariadb": "running",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8300", "lon": "96.1800" },
+      "network_connections": "12"
+    },
+    {
+      "timestamp": "2025-09-05 12:09:55",
+      "cpu_usage": "93.2",
+      "memory": { "used": "1580", "total": "1837", "percent": "86" },
+      "disk_usage": "70%",
+      "services": {
+        "sshd": "close",
+        "httpd": "running",
+        "mariadb": "running",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8500", "lon": "96.2000" },
+      "network_connections": "25"
+    },
+    {
+      "timestamp": "2025-09-05 11:29:15",
+      "cpu_usage": "12.5",
+      "memory": { "used": "512", "total": "1837", "percent": "28" },
+      "disk_usage": "35%",
+      "services": {
+        "sshd": "running",
+        "httpd": "close",
+        "mariadb": "running",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8100", "lon": "96.1600" },
+      "network_connections": "3"
+    },
+    {
+      "timestamp": "2025-09-05 11:59:45",
+      "cpu_usage": "70.4",
+      "memory": { "used": "1240", "total": "1837", "percent": "68" },
+      "disk_usage": "57%",
+      "services": {
+        "sshd": "running",
+        "httpd": "running",
+        "mariadb": "close",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8400", "lon": "96.1900" },
+      "network_connections": "18"
+    },
+    {
+      "timestamp": "2025-09-05 11:39:25",
+      "cpu_usage": "32.1",
+      "memory": { "used": "720", "total": "1837", "percent": "39" },
+      "disk_usage": "40%",
+      "services": {
+        "sshd": "running",
+        "httpd": "running",
+        "mariadb": "close",
+        "postfix": "running"
+      },
+      "location": { "lat": "16.8200", "lon": "96.1700" },
+      "network_connections": "5"
+    }
+  ]
+}
